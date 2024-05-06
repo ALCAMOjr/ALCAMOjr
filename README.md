@@ -3,7 +3,7 @@ A passionate Blockchain Developer and Cybersecurity Analyst.
 
     📚​ I studied Cybersecurity and Ethical Hacking
 
-    🚪​ Entering the world of Rust 
+    🚪​ Working with Rust 
 
     🌱 I am currently increasing my blockchain and web3 development skills.
 
