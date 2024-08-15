@@ -15,7 +15,5 @@ A passionate Blockchain Developer and Cybersecurity Analyst.
 
     📫 How to reach me alfredocastellanoula.14@gmail.com
 
-Connect with me:
-
 ALCAMOjr 
-Languages and Tools:
+
